@@ -1,0 +1,12 @@
+2021-02-24 16:16:29 INFO  Propertylog4j:15 - This is an info
+2021-02-24 16:16:29 WARN  Propertylog4j:16 - This is a warning
+2021-02-24 16:16:29 ERROR Propertylog4j:17 - This is an error
+2021-02-24 16:16:29 FATAL Propertylog4j:18 - This is a fatal message
+2021-02-24 16:17:27 INFO  Propertylog4j:15 - This is an info
+2021-02-24 16:17:27 WARN  Propertylog4j:16 - This is a warning
+2021-02-24 16:17:27 ERROR Propertylog4j:17 - This is an error
+2021-02-24 16:17:27 FATAL Propertylog4j:18 - This is a fatal message
+2021-02-24 16:18:38 INFO  Propertylog4j:15 - This is an info
+2021-02-24 16:18:38 WARN  Propertylog4j:16 - This is a warning
+2021-02-24 16:18:38 ERROR Propertylog4j:17 - This is an error
+2021-02-24 16:18:38 FATAL Propertylog4j:18 - This is a fatal message
